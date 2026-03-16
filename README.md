@@ -51,16 +51,16 @@ Aiming toward **Electrical/Electronic Engineering** — where software, hardware
     <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div> -->
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&&style=plastic)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white&style=plastic)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white&style=plastic)](#)
 
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=plastic)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white&style=plastic)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=plastic)](#)
 
-[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white&style=plastic)](#)
 
 <div align="left">
     <img src="https://github-readme-stats-xi-five-59.vercel.app/api?username=wowooos&hide=prs&show_icons=true&hide_title=true&theme=catppuccin_mocha&bg_color=00000000&hide_border=true" />
@@ -74,9 +74,9 @@ Aiming toward **Electrical/Electronic Engineering** — where software, hardware
 <div align="center">
 <h4>📬 Contact</h4>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuelle-da-costa/)
-  [![Discord](https://img.shields.io/badge/wowooos-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
-  [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/wowooosx)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuelle-da-costa/)
+  [![Discord](https://img.shields.io/badge/wowooos-5865F2?style=plastic&logo=discord&logoColor=white)](#)
+  [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=plastic&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/wowooosx)
 </div>
 
 ---
