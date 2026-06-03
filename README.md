@@ -81,8 +81,8 @@ Aiming toward **Electrical/Electronic Engineering** — where software, hardware
   [![Discord](https://img.shields.io/badge/wowooos-5865F2?style=plastic&logo=discord&logoColor=white)](#)
   
   [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=plastic&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/wowooosx)
-  ![HackTheBox](https://img.shields.io/badge/HackTheBox-93C928?logo=hackthebox&logoColor=E0E0E0&style=plastic)
-  ![HackerRank](https://img.shields.io/badge/HackerRank-00BF53?logo=hackerrank&logoColor=E0E0E0&style=plastic)
+  [![HackTheBox](https://img.shields.io/badge/HackTheBox-93C928?logo=hackthebox&logoColor=E0E0E0&style=plastic)](https://profile.hackthebox.com/profile/019de958-bfeb-73f8-9af3-413097e4f36f)
+  [![HackerRank](https://img.shields.io/badge/HackerRank-00BF53?logo=hackerrank&logoColor=E0E0E0&style=plastic)](https://www.hackerrank.com/profile/wowooosx)
   
 </div>
 
