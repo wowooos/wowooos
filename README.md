@@ -19,7 +19,7 @@
   <!--<li><a href="https://github.com/wowooos/surface-reconstruction-bechmark"><strong>Surface Reconstruction Benchmark</strong></a> <em>(R&D @ Itaipu)</em> — comparing 3D reconstruction algorithms and planning a visualization UI</li>-->
   <li><a href="https://github.com/wowooos/coding-challenges"><strong>Study cases from HackerRank</strong></a> — solving React challenges using TS and Styled-Components</li>
   <li><a href="https://github.com/wowooos/worker-platform"><strong>Fullstack project</strong></a> — finished the MVP, currently planning the next phase</li>
-  <li><strong>Cybersecurity</strong> — studying secure system design and ethical hacking</li>
+  <li><strong>Cybersecurity</strong> — studying secure system design and ethical hacking (planning a repo structure to showcase my projects!)</li>
 </ul>
 
 #### ▸ Interests & direction
