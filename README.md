@@ -57,11 +57,11 @@ Aiming toward **Electrical/Electronic Engineering** — where software, hardware
 <!--[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic)](#)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white&style=plastic)](#)-->
 
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=TypeScript&logoColor=white)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=TypeScript&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=plastic)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white&style=plastic)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=plastic)](#)
-![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=plastic&logo=styled-components&logoColor=white)
+[![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=plastic&logo=styled-components&logoColor=white)](#)
 
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white&style=plastic)](#)
 
