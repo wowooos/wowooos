@@ -65,10 +65,10 @@ Aiming toward **Electrical/Electronic Engineering** — where software, hardware
 
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white&style=plastic)](#)
 
-<div align="left">
+<!-- <div align="left">
     <img src="https://github-readme-stats-xi-five-59.vercel.app/api?username=wowooos&hide=prs&show_icons=true&hide_title=true&theme=catppuccin_mocha&bg_color=00000000&hide_border=true" />
     <img src="https://github-readme-stats-xi-five-59.vercel.app/api/top-langs/?username=wowooos&theme=catppuccin_mocha&bg_color=00000000&hide_border=true&hide_title=true&layout=compact&stats_format=bytes" />
-</div>
+</div> -->
 
   <br>
   
