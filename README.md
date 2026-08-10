@@ -4,7 +4,7 @@
     <br>
     Hi there! I'm <b>Emanuelle</b> 👋
     <br><br>
-    I'm driven to understand how systems work under the hood — and what they're truly capable of
+    I'm driven to understand how systems work under the hood and what they're truly capable of
     <br>
     Software developer based in <b>Foz do Iguaçu</b> 🇧🇷
     <br>
@@ -25,10 +25,6 @@
 #### ▸ Interests & direction
 
 `Low-level computing` `Hardware & Arduino` `Computer architecture` `Cybersecurity`
-
-<br>
-
-Aiming toward **Electrical/Electronic Engineering** — where software, hardware, and systems intersect.
 
 ---
 
