@@ -1,87 +1,94 @@
-<div align="center">
-  <img src="gif_1.gif" width="135" align="right"/>
-  <samp>
-    <br>
-    Hi there! I'm <b>Emanuelle</b> 👋
-    <br><br>
-    I'm driven to understand how systems work under the hood and what they're truly capable of
-    <br>
-    Software developer based in <b>Foz do Iguaçu</b> 🇧🇷
-    <br>
-    Currently an <b>R&D scholarship holder at Itaipu Binacional</b>
-  </samp>
-</div>
+<samp> 
+  
+hi, my name is emanuelle!
 
----
 
-#### ▸ Currently working on
-<ul>
-  <!--<li><a href="https://github.com/wowooos/surface-reconstruction-bechmark"><strong>Surface Reconstruction Benchmark</strong></a> <em>(R&D @ Itaipu)</em> — comparing 3D reconstruction algorithms and planning a visualization UI</li>-->
-  <li><a href="https://github.com/wowooos/coding-challenges"><strong>Study cases from HackerRank</strong></a> — solving React challenges using TS and Styled-Components</li>
-  <li><a href="https://github.com/wowooos/worker-platform"><strong>Fullstack project</strong></a> — finished the MVP, currently planning the next phase</li>
-  <li><strong>Cybersecurity</strong> — studying secure system design and ethical hacking (planning a repo structure to showcase my projects!)</li>
-</ul>
+I think I like to understand exactly how things work, just so that I can always answer "I could" to the "what if I wanted to..." question :p
+<br>
+I currently play labs and CTFs on HackTheBox, HackingClub, and Portswigger, with bug bounty hunting as the next goal!!
 
-#### ▸ Interests & direction
+</samp> 
 
-`Low-level computing` `Hardware & Arduino` `Computer architecture` `Cybersecurity`
 
----
+#### ▸ what I'm currently working on
+<table>
+  <tr>
+    <td>
+Vampi Excursões — <i>freelance, in development</i>
+    </td>
+    <td>
+      a full-stack seat booking platform for excursion vans, built for a client. handles reservations, payment processing (Mercado Pago), contract acceptance, and passenger/guardian rules for minors
+      <br>
+      <code>Node.js</code> <code>Express</code> <code>TypeScript</code> <code>React</code> <code>PostgreSQL</code> <code>Bun</code>
+      <br>
+      <p align="right"><i>currently private</i></p>
+    </td>
+  </tr>
 
-#### ▸ Current Stack
-<!-- <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-    <br>
-    <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css logo"  />
-    <br>
-    <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-</div> -->
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&&style=plastic)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white&style=plastic)](#)
-<!--[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic)](#)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white&style=plastic)](#)-->
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=TypeScript&logoColor=white)](#)
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=plastic)](#)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white&style=plastic)](#)
-[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=plastic)](#)
-[![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=plastic&logo=styled-components&logoColor=white)](#)
+  <tr>
+    <td>Cyber Vault</td>
+    <td>
+      my personal cyber knowledge vault in Obsidian, tracking labs, CTFs, and notes on techniques, tools, and protocols, synced to GitHub
+      <br>
+      <code>Obsidian</code> <code>Git</code>
+      <br>
+      <p align="right"><i>currently private</i></p>
+    </td>
+  </tr>
+  
+</table>
 
-[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white&style=plastic)](#)
+#### ▸ my tech stack and toolbox so far
+<table>
+  <tbody>
+    <tr>
+      <th>dev stack</th>
+      <td>
+        <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&&style=plastic" alt="JavaScript"/></a> 
+        <a href="#"><img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white&style=plastic" alt="Node.js"/></a>
+        <br>
+        <a href="#"><img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=TypeScript&logoColor=white" alt="TypeScript"></a>
+        <a href="#"><img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=plastic" alt="React"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white&style=plastic" alt="HTML"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=plastic" alt="CSS"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/Styled_Components-DB7093?style=plastic&logo=styled-components&logoColor=white" alt="Styled Components"/></a>
+        <br>
+        <a href="#"><img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white&style=plastic" alt="Postgres"/></a>
+        <br>
+      </td>
+    </tr>
+    <tr>
+      <th>cybersec toolbox</th>
+      <td>
+        <a href="#"><img src="https://img.shields.io/badge/Kali-%23268BEE.svg?style=plastic&logo=kalilinux&logoColor=white" alt="Kali Linux"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=plastic&logo=linux&logoColor=black" alt="Linux"/></a>
+        <br>
+        <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic" alt="Python"/></a>
+        <br>
+        <a href="#"><img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white" alt="Postman"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/Burp Suite-FF6633?style=plastic&logo=burpsuite&logoColor=white" alt="Burp Suite"/></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+  
 
-<!-- <div align="left">
-    <img src="https://github-readme-stats-xi-five-59.vercel.app/api?username=wowooos&hide=prs&show_icons=true&hide_title=true&theme=catppuccin_mocha&bg_color=00000000&hide_border=true" />
-    <img src="https://github-readme-stats-xi-five-59.vercel.app/api/top-langs/?username=wowooos&theme=catppuccin_mocha&bg_color=00000000&hide_border=true&hide_title=true&layout=compact&stats_format=bytes" />
-</div> -->
 
+<div align="left">
+<h4>feel free to connect!</h4>
+  
+  linkedin: [my profile](https://www.linkedin.com/in/emanuelle-da-costa/)
   <br>
-  
----
-
-<div align="center">
-<h4><samp> 👾 Connect! </samp></h4>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuelle-da-costa/)
-  [![Discord](https://img.shields.io/badge/wowooos-5865F2?style=plastic&logo=discord&logoColor=white)](#)
-  
-  [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=plastic&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/wowooosx)
-  [![HackTheBox](https://img.shields.io/badge/HackTheBox-93C928?logo=hackthebox&logoColor=E0E0E0&style=plastic)](https://profile.hackthebox.com/profile/019de958-bfeb-73f8-9af3-413097e4f36f)
-  [![HackerRank](https://img.shields.io/badge/HackerRank-00BF53?logo=hackerrank&logoColor=E0E0E0&style=plastic)](https://www.hackerrank.com/profile/wowooosx)
-  
+  discord: wowooos
+  <br>
+  twitter/X: [wowooos_](https://x.com/wowooos_)
+  <!-- [![HackTheBox](https://img.shields.io/badge/HackTheBox-93C928?logo=hackthebox&logoColor=E0E0E0&style=plastic)](https://profile.hackthebox.com/profile/019de958-bfeb-73f8-9af3-413097e4f36f) -->
 </div>
 
----
-
+<p align="right"><samp>always remember who you are</samp></p>
 
