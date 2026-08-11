@@ -85,8 +85,6 @@ Vampi Excursões — <i>freelance, in development</i>
   linkedin: [my profile](https://www.linkedin.com/in/emanuelle-da-costa/)
   <br>
   discord: wowooos
-  <br>
-  twitter/X: [wowooos_](https://x.com/wowooos_)
   <!-- [![HackTheBox](https://img.shields.io/badge/HackTheBox-93C928?logo=hackthebox&logoColor=E0E0E0&style=plastic)](https://profile.hackthebox.com/profile/019de958-bfeb-73f8-9af3-413097e4f36f) -->
 </div>
 
