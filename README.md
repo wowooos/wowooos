@@ -14,7 +14,7 @@ I currently play labs and CTFs on HackTheBox, HackingClub, and Portswigger, with
 <table>
   <tr>
     <td>
-Web App p/ venda de excursões — <i>freelance, in development</i>
+Web App p/ venda de vagas em excursões — <i>freelance, in development</i>
     </td>
     <td>
       a full-stack seat booking platform for excursion vans, built for a client. handles reservations, payment processing (Mercado Pago), contract acceptance, and passenger/guardian rules for minors
